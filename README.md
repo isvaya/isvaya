@@ -75,6 +75,7 @@
 
 | Project | Demo | Code | Description |
 |--------|------|------|-------------|
+| Fifa Watches | 🔗 [Live] (https://jsteffany.com/) | 📦 [GitHub] (https://github.com/isvaya/fifa) | Лендинг для часов Fifa 2026 |
 <!-- | 🧩 Nonogram Game | 🔗 [Live](https://...) | 📦 [GitHub](https://...) | Логическая игра |
 | 🎮 Simon Says | 🔗 [Live](https://...) | 📦 [GitHub](https://...) | Игра на память | -->
 ---
